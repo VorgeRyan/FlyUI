@@ -1,0 +1,9 @@
+Name: FlyUI
+main: vorge\FlyUI\Main
+author: vorge
+api: [4.0, 3.0]
+version: 1.0
+
+commands:
+  fly:
+    description: "This command will bring up a form where you can toggle flight and dissable flight!"
